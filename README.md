@@ -19,7 +19,7 @@ The primary goal is to gain knowledge and hands-on experience with various techn
 
 ### Backend
 - 🦀 **Rust**: Core application logic for monitoring and analyzing cryptocurrency prices.
-- 🗃️ **MySQL**: Database for storing cryptocurrency prices, arbitrage opportunities, and transaction data.
+- 🗃️ **MariaDB**: Database for storing cryptocurrency prices, arbitrage opportunities, and transaction data.
 
 ### Frontend
 - 🌐 **JavaScript**: Base language for frontend interactivity.
